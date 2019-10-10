@@ -92,21 +92,3 @@ You can also mark multiple files to share at once.
 
 - There is no intention to migrate this software to another operating system.
 
-**Where can I download Images-to-pdf software?**
-
-The software can be downloaded from [Google Playstore](https://play.google.com/store/apps/details?id=swati4star.createpdf) and also on [F-droid](https://f-droid.org/app/swati4star.createpdf)
-
-**Can I contribute to Images-to-pdf project?**
-
-Yes, please!
-
-Feel free to share your ideas(feature requests), submit a bug or pull request for anything you feel should be added.
-
-This project currently has multiple [contributors](https://github.com/Swati4star/Images-to-PDF/graphs/contributors) that add as little as a single line change. This project is opened to contributions of any kind. You can also fork the project and further develop it on your own so long as you work within the confines of the license. Pull requests of your contributions will be merged if they fulfill some certain requirements. Read the project's [Contributor's guide](https://github.com/Swati4star/Images-to-PDF/blob/master/CONTRIBUTING.md) to get started on how to contribute.
-
-**I have some questions not contained in this FAQs document, how can I contact the developer?**
-
-For further inquiries, you can contact the developer via email. Send an email to swati4star@gmail.com. The developer can also be contacted by opening an [issue](https://github.com/Swati4star/Images-to-PDF/issues/new) on the repository.
-
-You can also check out the developer's profile [here](https://swati4star.github.io/).
-
